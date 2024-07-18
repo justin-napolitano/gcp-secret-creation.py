@@ -23,7 +23,7 @@ This script manages secrets in Google Cloud Platform's Secret Manager. It can cr
 
 1. **Clone the repository**:
     ```sh
-    git clone https://your-repo-url.git
+    git clone https://github.com/justin-napolitano/gcp-secret-creation.py.git
     cd your-repo-directory
     ```
 
