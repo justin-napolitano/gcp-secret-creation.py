@@ -1,7 +1,7 @@
 ---
 slug: github-gcp-secret-creation-py
 id: github-gcp-secret-creation-py
-title: Manage Secrets in GCP with Python Script
+title: Manage GCP Secrets with Python Script Automation
 repo: justin-napolitano/gcp-secret-creation.py
 githubUrl: https://github.com/justin-napolitano/gcp-secret-creation.py
 generatedAt: '2025-11-24T21:34:52.250Z'
@@ -19,8 +19,8 @@ seoPrimaryKeyword: gcp secret management python
 seoSecondaryKeywords:
   - google cloud secrets
   - python secret manager
-  - yaml configuration secrets
-  - environment variable management
+  - yaml configuration
+  - environment variables
   - gcp automation
 seoOptimized: true
 topicFamily: null
