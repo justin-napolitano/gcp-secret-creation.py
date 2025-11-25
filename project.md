@@ -1,19 +1,28 @@
 ---
 slug: github-gcp-secret-creation-py
 id: github-gcp-secret-creation-py
-title: GCP Secret Manager Script
+title: Manage Secrets in GCP with Python Script
 repo: justin-napolitano/gcp-secret-creation.py
 githubUrl: https://github.com/justin-napolitano/gcp-secret-creation.py
 generatedAt: '2025-11-24T21:34:52.250Z'
 source: github-auto
 summary: >-
-  A Python script to manage secrets in Google Cloud Platform's Secret Manager.
-  It supports creating, overwriting, and deleting secrets based on YAML
-  configuration files and environment variables.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  A Python script for creating, overwriting, and deleting secrets in Google
+  Cloud Platform's Secret Manager using YAML and environment variables.
+tags:
+  - google-cloud-secret-manager
+  - python
+  - yaml
+  - dotenv
+  - gcp
+seoPrimaryKeyword: gcp secret management python
+seoSecondaryKeywords:
+  - google cloud secrets
+  - python secret manager
+  - yaml configuration secrets
+  - environment variable management
+  - gcp automation
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
